@@ -233,10 +233,10 @@ class FusionModel(nn.Module):
 
 ```
 ---
-## Training and Evaluation
+## Results
+![bias v horizon](./model2.0/bias.png)
+![rmse](rmse.png)
 
-The model is trained using Adam optimizer with early stopping on validation loss to prevent overfitting. Mean Squared Error (MSE) serves as the primary loss function, while RMSE, MAE, and Coefficient of Determination (R²) are used for quantitative evaluation. Temporal cross-validation across multiple pollution episodes ensures generalization. Model robustness is further assessed on critical high-pollution events in Delhi to evaluate short-term forecasting stability.
-![Alt text](./model2.0/rmse.png)
 
 
 ---
