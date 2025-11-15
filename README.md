@@ -136,5 +136,5 @@ Station Features (T, 18)
 ---
 
 ## 📚 References
-Attention mechanism based CNN-LSTM hybrid deep learning model for atmospheric ozone concentration prediction](https://www.nature.com/articles/s41598-025-05877-2))
+Attention mechanism based CNN-LSTM hybrid deep learning model for atmospheric ozone concentration prediction](https://www.nature.com/articles/s41598-025-05877-2)
 
